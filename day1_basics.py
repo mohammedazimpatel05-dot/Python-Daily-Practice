@@ -1,1 +1,1 @@
-print("Hello, Daily Python Practice!")
+ print("Hello, Daily Python Practice!")
