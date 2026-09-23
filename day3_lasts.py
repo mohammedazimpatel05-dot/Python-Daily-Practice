@@ -1,2 +1,3 @@
-let first = "John", last = "Doe"; console.log(first{last});
+ let first = "John", last = "Doe"; console.log(first{last}); 
+
 
